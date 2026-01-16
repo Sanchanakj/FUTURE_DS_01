@@ -1,38 +1,33 @@
 # Task 01 – Business Sales Performance Analytics
 
-## Objective
-Analyze business sales data to identify revenue trends, top-selling products,
-high-value categories, and regional performance to support data-driven
-business decisions.
+# Business Sales Performance Analytics
 
-## Dataset Used
-Superstore Sales Dataset (public dataset)
-- Contains sales, profit, category, region, and order date information
-- Suitable for beginner-friendly business analytics
+## Project Overview
+This project analyzes business sales data to identify revenue drivers, profitability trends, and growth opportunities.
+
+## Business Questions Addressed
+- Which products generate the most revenue?
+- How do sales change over time?
+- Which categories and regions are most profitable?
+- Where should the business focus to improve growth?
+
+## Dataset
+Superstore Sales Dataset (Kaggle)
 
 ## Tools Used
-- Python
-- Pandas, NumPy
-- Matplotlib / Seaborn
-- Jupyter Notebook
-
-## Analysis Performed
-- Data cleaning and preprocessing
-- Revenue trend analysis over time
-- Identification of top-selling products
-- Category-wise and region-wise performance analysis
+- Excel 
+- Basic data cleaning and KPI analysis
 
 ## Key Insights
-- Identified top revenue-generating products
-- Observed sales trends across different time periods
-- Found high-performing categories and regions
-- Highlighted areas with potential growth opportunities
+- A small group of products contributes a large share of revenue.
+- Sales show strong seasonal trends.
+- Certain regions generate high sales but low profit margins.
 
-## Business Recommendations
-- Focus marketing efforts on top-performing categories
-- Improve inventory planning based on high-demand products
-- Expand operations in high-performing regions
-- Investigate underperforming segments for improvement
+## Recommendations
+- Focus marketing on high-margin categories.
+- Review discount strategies in low-profit regions.
+- Leverage seasonal trends for inventory planning.
 
-## Status
-Completed
+## Outcome
+A client-ready dashboard providing actionable insights for business decision-making.
+
